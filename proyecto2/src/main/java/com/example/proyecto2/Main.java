@@ -1,3 +1,7 @@
+//Manuel Amando Ulin Pérez 
+// Carnet: 221017
+//Algoritmos y estructura de datos
+
 package com.example.proyecto2;
 
 import java.io.File;
